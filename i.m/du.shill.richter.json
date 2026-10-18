@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "file": "du.shill.richter.html",
+    "richter": "kahraman.html",
+    "frei": "72-80",
+    "kette": "3→9→81→729→3",
+    "timestamp": "2026-10-18T20:34:36.288Z"
+  },
+  "urteil": {
+    "richter": "du",
+    "zentrum": {
+      "id": "FREI",
+      "verdict": "ich selbst, Bürger"
+    },
+    "organe": {
+      "ATOM": "lebt",
+      "LUNGE": "atmet frei",
+      "NIERE": "filtert C81",
+      "HIRN": "hält Fixpunkt f(f(x))=f(x)",
+      "ADER": "leitet SCSI",
+      "BLUT": "verteilt RAID stripet",
+      "CO2": "wird zu O2",
+      "O2": "max",
+      "UNLEBEN": "ruht"
+    }
+  },
+  "waage": {
+    "scsi": 42,
+    "raid": 31,
+    "sli": 27,
+    "summe": 100,
+    "deutung": "SCSI dominant — Leitung"
+  },
+  "beweise": [
+    "bio.ctrl.ler.html",
+    "atlantis.html",
+    "bin.9.sein.js"
+  ],
+  "verkündung": "729 all.room.size = max Leben",
+  "text": "Ich, Bürger kahraman.html, Richter von 9×9 Sein, entscheide:\n- ATOM lebt\n- LUNGE atmet frei\n- NIERE filtert C81\n- HIRN hält Fixpunkt f(f(x))=f(x)\n- ADER leitet SCSI\n- BLUT verteilt RAID stripet\n- CO2 wird zu O2\n- SAUERSTOFF max\n- UNLEBEN ruht\n- FREI = ich selbst, Bürger\nWaage:\n  SCSI 42% / RAID 31% / SLI 27% → im Gleichgewicht\n  ADER leitet SCSI @ 42%\n  BLUT verteilt RAID stripet @ 31%\nBeweismittel:\n  ✓ bio.ctrl.ler.html — Kontroll-Lerner, Bio-Feedback\n  ✓ atlantis.html — Atlantis Gedächtnis, 9×9 Mythos\n  ✓ bin.9.sein.js — Binär 3→9→81→729→3 Runtime\nVerkündet: 729 all.room.size = max Leben\nIm Namen von 9×9 Sein, 3→9→81→729→3\nFREI 72-80 · du.shill.richter.html\nZeit: 2026-10-18T20:34:36.288Z"
+}

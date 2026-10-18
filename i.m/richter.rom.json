@@ -1,0 +1,101 @@
+{
+  "rom": "richter.rom.html",
+  "version": "81x9=729",
+  "Gesetze": [
+    {
+      "nr": 1,
+      "organ": "LUNGE",
+      "titel": "LUNGE Gesetz",
+      "file": "lunge.atmet.js",
+      "job": "atmet 16s Zyklus / O2 Pumpe",
+      "bin": "00000001",
+      "addr": "0x00",
+      "desc": "atmet 16s"
+    },
+    {
+      "nr": 2,
+      "organ": "BLUT",
+      "titel": "BLUT Gesetz",
+      "file": "blut.rollt.js",
+      "job": "rollt, soccer/player Bewegung",
+      "bin": "00000010",
+      "addr": "0x10",
+      "desc": "rollt, soccer/player"
+    },
+    {
+      "nr": 3,
+      "organ": "ADER",
+      "titel": "ADER Gesetz",
+      "file": "ader.scsi.js",
+      "job": "leitet SCSI/SLI Bus / Leiterbahn",
+      "bin": "00000011",
+      "addr": "0x20",
+      "desc": "leitet SCSI/SLI"
+    },
+    {
+      "nr": 4,
+      "organ": "HIRN",
+      "titel": "HIRN Gesetz",
+      "file": "hirn.admin0.js",
+      "job": "hält Fixpunkt f(f(x))=f(x) = RAM ADMIN0",
+      "bin": "00000100",
+      "addr": "0x30",
+      "desc": "RAM ADMIN0"
+    },
+    {
+      "nr": 5,
+      "organ": "NIERE",
+      "titel": "NIERE Gesetz",
+      "file": "niere.filter.js",
+      "job": "filtert void/kopf.los Abfall",
+      "bin": "00000101",
+      "addr": "0x40",
+      "desc": "filtert void/kopf.los"
+    },
+    {
+      "nr": 6,
+      "organ": "CO2",
+      "titel": "CO2 Gesetz",
+      "file": "co2.atom.js",
+      "job": "atom/element Abfall → wird zu O2",
+      "bin": "00000110",
+      "addr": "0x50",
+      "desc": "Abfall → O2"
+    },
+    {
+      "nr": 7,
+      "organ": "O2",
+      "titel": "SAUERSTOFF Gesetz",
+      "file": "bio.tel.o2.js",
+      "job": "bio/bio.tel Leben 88→99→101",
+      "bin": "00000111",
+      "addr": "0x60",
+      "desc": "Leben 88→99→101"
+    },
+    {
+      "nr": 8,
+      "organ": "∅B",
+      "titel": "UNLEBEN Gesetz",
+      "file": "nirwana.0B.js",
+      "job": "nirwana/notfall/uns Pause 0B",
+      "bin": "00001000",
+      "addr": "0x70",
+      "desc": "Pause 0B"
+    },
+    {
+      "nr": 9,
+      "organ": "FREI",
+      "titel": "FREI Gesetz",
+      "file": "kahraman.html",
+      "job": "Bürger = Richter selbst entscheidet",
+      "bin": "00001001",
+      "addr": "0x80",
+      "desc": "Bürger = Richter"
+    }
+  ],
+  "neuesWerk": "richter.rom.html enthält:\n- bin.9.sein.js final\n- scsi.raid.sli.ctrl.html INDEX\n- atlantis.html Doggerland\n- 9x9 Sein Organe Verabredung\n- shill.richer.html Dichte\n- du.shill.richter.html Urteil\nNeues Werk = Bürger Richter der entscheidet\n\n// EDIT HIER: WAS IST DRIN?\n// 81 Felder = 9 Organe x 9 Gesetze\n// maxLeben 729 = 81 x 9\n// Richter = ROM Brenner\n// Gesetz ist ReadOnly bis neues ROM\n",
+  "burned": false,
+  "timestamp": "2026-10-18T22:32:13.160Z",
+  "maxLeben": 729,
+  "felder": 81
+}
